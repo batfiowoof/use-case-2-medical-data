@@ -71,7 +71,7 @@ ORDER BY TOTAL_CASES DESC;
 
 ```
 
-### **3. Положителни тестове спрямо отрицателни в USA**  
+### **3. Положителни тестове спрямо отрицателни в US**  
 ```sql
 -- Анализ на процента положителни тестове спрям отрицателните в Щатите
 SELECT 
@@ -80,8 +80,7 @@ SELECT
     SUM(CT.NEGATIVE) AS TOTAL_NEGATIVE_TESTS, 
     (SUM(CT.POSITIVE) * 100.0 / (SUM(CT.POSITIVE) + SUM(CT.NEGATIVE))) AS POSITIVE_TEST_RATE
 FROM CDC_TESTING CT
-GROUP BY CT.ISO3166_1
-ORDER BY POSITIVE_TEST_RATE DESC;
+GROUP BY CT.ISO3166_1;
 
 ```
 
