@@ -536,5 +536,5 @@ Eraser.io – инструмент за създаване на диаграми
 Hospital Resource Planning During Pandemic (Планиране на болнични ресурси)
 Evaluation of the Effectiveness of Measures and Policies (Оценка на ефективността на мерките и политиките)
 Economic Impact Assessment and Recovery Planning (Оценка на икономическото въздействие и планиране на възстановяване)
-3. Източници на данни
+3. Източници на данни - 
 Официални набори от данни от CDC, WHO, JHU, ECDC, Our World in Data и други институции, свързани с COVID-19, които са взети от Snowflake Marketplace. [Налични тук](https://app.snowflake.com/marketplace/listing/GZSNZ7F5UH/starschema-covid-19-epidemiological-data)
