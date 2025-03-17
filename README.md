@@ -555,7 +555,8 @@ POLICY_TYPE, RESTRICTION_TEXT, STATUS (обхващат локдауни, мас
 
 Чрез тези данни икономическите анализи стават **по-информирани** – може да се моделира спадът на БВП спрямо строгите мерки, да се прогнозира възстановяването по сценарии на контрол над вируса, както и да се идентифицират области, нуждаещи се от най-много инвестиции за излизане от кризата.
 
-![Economic Impact Assessment](https://github.com/user-attachments/assets/XJzyT68UP2fHX8QAqvkGWb)
+
+![diagram-export-3-17-2025-5_59_13-PM](https://github.com/user-attachments/assets/de23c839-6759-40e9-b339-226d02cbe88e)
 
 
 
